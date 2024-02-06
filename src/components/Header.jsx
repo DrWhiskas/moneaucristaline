@@ -10,7 +10,7 @@ export default function Header() {
 	const HeaderLink = ({ text, link, style }) => {
 		return (
 			<li>
-				<a className={`header__nav__link blue ${style}`} href={link}>
+				<a className={`header__nav__link ${style}`} href={link}>
 					{text}
 				</a>
 			</li>

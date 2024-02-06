@@ -1,0 +1,16 @@
+{
+	"logo": {
+		"id": "1",
+		"title": "Logo",
+		"picture": "https://www.moneaucristaline.fr/wp-content/themes/cristaline/img/logo-cristaline.svg"
+	},
+	"home": {
+		"id": "2",
+		"title": "home",
+		"picture": [
+            "https://www.moneaucristaline.fr/wp-content/uploads/2022/07/cristaline-30ans-hp.jpg",
+            "https://www.moneaucristaline.fr/wp-content/uploads/2022/10/cristaline8l.png" 
+
+        ]
+	}
+}
