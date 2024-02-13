@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/moneaucristaline/static/css/main.7f85abf6.css",
+    "main.css": "/moneaucristaline/static/css/main.0cd7253f.css",
     "main.js": "/moneaucristaline/static/js/main.d4ecb29f.js",
     "index.html": "/moneaucristaline/index.html",
-    "main.7f85abf6.css.map": "/moneaucristaline/static/css/main.7f85abf6.css.map",
+    "main.0cd7253f.css.map": "/moneaucristaline/static/css/main.0cd7253f.css.map",
     "main.d4ecb29f.js.map": "/moneaucristaline/static/js/main.d4ecb29f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f85abf6.css",
+    "static/css/main.0cd7253f.css",
     "static/js/main.d4ecb29f.js"
   ]
 }
