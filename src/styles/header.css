@@ -143,7 +143,7 @@
         background:white;
         transition: all .3s ease-in-out;
     }
-    .show-header .burger-bar::after, .burger-bar::before{
+    .show-header .burger-bar::after, .show-header .burger-bar::before{
         background: #002F6D;
     }
     .burger-bar::before,
